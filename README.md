@@ -1,4 +1,4 @@
-<h2> <img src="https://github.com/iChaeYeong/IChaeYeong/blob/main/Profile_photo" alt="Profile Image" width="175" /> Hello, I’m Lee Chae Yeong 😎</h2>   
+<h2> <img align='right' src="https://github.com/iChaeYeong/IChaeYeong/blob/main/Profile_photo" alt="Profile Image" width="175" /> Hello, I’m Lee Chae Yeong 😎</h2>   
 <h2>Here, I document my journey as a developer. 💻 </h2>
 
 
