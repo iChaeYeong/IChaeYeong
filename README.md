@@ -1,4 +1,4 @@
-# Hello, I’m Lee Chae Yeong. 😎
+# <img src="https://github.com/iChaeYeong/IChaeYeong/blob/main/Profile_photo" alt="Profile Image" width="175" /> Hello, I’m Lee Chae Yeong 😎     
 # Here, I document my journey as a developer. 💻
 
 
