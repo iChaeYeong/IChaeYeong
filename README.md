@@ -1,4 +1,7 @@
-## Hello World 🌍
+# Hello, I’m Lee Chae Yeong. 😎
+# Here, I document my journey as a developer. 💻
+
+
 
 <!--
 **iChaeYeong/IChaeYeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
