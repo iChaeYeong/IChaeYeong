@@ -1,6 +1,5 @@
-## Hi there 👋
-<h1> MY NAME : Lee Chae Yeong </h1>
-<h1> </h1>
+## Hello World 🌍
+
 <!--
 **iChaeYeong/IChaeYeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
